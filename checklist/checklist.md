@@ -64,4 +64,3 @@
 
 ## 🐞 Error Handling
 - No unexpected crashes
-- Errors (if any) are displayed properly
