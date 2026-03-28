@@ -47,3 +47,4 @@ The issue impacts usability and readability of search results.
 ---
 
 ## Attachments
+https://www.loom.com/share/354a8ef0685f4367a538f6a22fea8c38
