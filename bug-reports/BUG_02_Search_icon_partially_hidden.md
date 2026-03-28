@@ -44,4 +44,4 @@ This is a visual UI issue that affects the layout but does not impact functional
 ---
 
 ## Attachments
-[Screenshot available in `/screenshots` folder](https://www.loom.com/share/bb31e5f6203941c3a062f30615a318e1)
+https://www.loom.com/share/bb31e5f6203941c3a062f30615a318e1
